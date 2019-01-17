@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.navbar-default {
+     background-color:white; 
+     border-color: transparent; 
+}
+.item img{
+    width: 100%;
+    background-size: cover;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: 500px;;
+}
+.carousel-control.left {
+    background-image: none;
+    background-image: none;
+    background-image:none;
+    background-image: none;
+    filter: none;
+ 
+}
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: none;
+    background-image: none;
+    background-image:none;
+    background-image: none;
+    filter: none;
+ 
+}
+
+.Whatwedotext{
+    margin-top: 10px;
+}
+#whychhoseuspart{
+ margin-top: 30px; 
+}
+.flagicon1{
+    margin-top:15px;
+}
+.flagicon1 p{
+    font-size: 15px;
+}
+.Whatwedotext2{
+    margin-top: 130px;
+}
+
+
+
+
+
+
+
+
+

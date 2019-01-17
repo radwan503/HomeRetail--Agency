@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#emailpart{
+    margin-top: 100px;
+}
+.form-control{
+    width: 750px;
+    margin-left: 180px;
+    border-radius: none;
+  margin-top: 20px;
+   
+    
+}
+.button{
+    width: 750px;
+}
+.icon i{
+    font-size: 50px;
+    outline: none;
+}

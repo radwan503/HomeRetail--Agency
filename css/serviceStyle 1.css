@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Servicetext h3{
+    color: white;
+}
+.Servicetext p{
+    color: white;
+}
+.serviceImg img{
+      margin-top: -150px;
+}
+#servicedesktopimg{
+    margin-top: 100px;
+    background-color: black;
+}
+#counterup{
+    margin-top: 100px;
+}
+.OURPRICES{
+    margin-top: 40px;
+    border: 1px solid wheat;
+    
+}
+.OURPRICES h3{
+    font-size: 20px;
+}
+.OURPRICES p{
+    padding-top: 15px;
+}
+.ourpricebutton{
+    padding-top: 15px;
+    border: 2px solid black;
+    width: 120px;
+    margin-left: 120px;
+  margin-bottom: 10px;
+    background-color: black;
+    
+}
+.ourpricebutton a{
+    color: white;
+    text-decoration: none;
+    
+}
+#circleimg{
+    margin-top: 100px;
+}
+.imgcircle img{
+    border-radius: 50%;
+    width: 150px;
+}
+.CircleImgtext p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.footertext1{
+  padding-top:60px;
+}
+
+.footertext1 a{
+    padding-left: 20px;
+}
+
+.footertext1{
+    background-color: black;
+    height: 150px;
+}
+
+
+
